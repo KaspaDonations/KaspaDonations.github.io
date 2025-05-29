@@ -1,4 +1,4 @@
-# crypto
+# Kaspa Donations Made Easy
 1) Fork us
 2) Add your wallets in index.html
 3) Set repository name in https://github.com/KaspaDonations/KaspaDonations.github.io/settings to "{yourUsername}.github.io"
