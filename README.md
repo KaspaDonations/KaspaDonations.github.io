@@ -4,5 +4,4 @@
 3) Set your repository name to "{yourUsername}.github.io"
 4) Select Main branch in /settings/pages
 
-& make your wallet more accessible to your followers!
 https://kaspadonations.github.io
