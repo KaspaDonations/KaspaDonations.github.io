@@ -166,7 +166,7 @@ input[type="checkbox"]:enabled {
 }
 
 .qrCode {
-	/*user-select: none;*/
+	user-select: none;
 	overflow: hidden;
 	border-radius: 15px; 
 	width: 230px; 
