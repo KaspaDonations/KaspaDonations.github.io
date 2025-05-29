@@ -30,11 +30,13 @@ body {
 
 main {
 	min-height: 100vh;
-
+	
 	display: flex;
 	flex-direction: column;
 	text-align: center;
 	align-items: center;
+	
+	margin-top: 110px;
 }
 
 button, input[type="button"], select {
