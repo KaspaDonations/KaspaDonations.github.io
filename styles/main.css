@@ -41,12 +41,13 @@ div br {
 	user-select: none;
 }
 
-input, textarea, button, select {
-	background: unset;
-	border: unset;
+img {
+	object-fit: contain !important;
+	max-width: 100% !important;
+	height: auto !important;
 }
 
-input, textarea, button, select, a {
+a {
 	outline: none;
 }
 
@@ -69,11 +70,10 @@ a:visited {color:#1C62B9; }
 a:hover {color:#3952C6; text-decoration: underline; }
 a:active {color:#D8B234; text-decoration: underline; }
 
-img {
-	object-fit: contain !important;
-	max-width: 100% !important;
-	height: auto !important;
-}
+footer a:link {color:black; text-decoration: none; font-weight:unset;}
+footer a:visited {color:black; text-decoration: none; font-weight:unset;}
+footer a:hover {color:#7CB8D3; text-decoration: underline; font-weight:unset;}
+footer a:active {color:#D8B234; text-decoration: underline; font-weight:unset;}
 
 footer {
 	min-height: 50px;
@@ -86,11 +86,6 @@ footer {
 	display: block; 
 	padding-top: 8px;
 }
-
-footer a:link {color:black; text-decoration: none; font-weight:unset;}
-footer a:visited {color:black; text-decoration: none; font-weight:unset;}
-footer a:hover {color:#7CB8D3; text-decoration: underline; font-weight:unset;}
-footer a:active {color:#D8B234; text-decoration: underline; font-weight:unset;}
 
 .qrCode {
 	user-select: none;
@@ -144,6 +139,7 @@ footer a:active {color:#D8B234; text-decoration: underline; font-weight:unset;}
 	max-width: 400px; 
 	margin-top: 20px;
 }
+
 .backdrop-t {
 	position: fixed;
 	top: 0;
@@ -152,15 +148,12 @@ footer a:active {color:#D8B234; text-decoration: underline; font-weight:unset;}
 	min-height: 100vh;
 	max-width: 100vw;
 	max-height: 100vh;
-
 	z-index: 96;
-
 	flex: 1;
 	display: grid;
 	place-items: center;
 	overflow: hidden;
 	text-align: center;
-
 	background-color: rgba(0,0,0, 0.7);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -177,6 +170,7 @@ footer a:active {color:#D8B234; text-decoration: underline; font-weight:unset;}
 	user-select: none;
 	min-height: 512px;
 }
+
 img.emoji {
 	height: 1em;
 	width: 1em;
