@@ -197,22 +197,13 @@ input[type="checkbox"]:enabled {
 }
 
 .button {
-	outline: none;
-	text-decoration: none;
 	user-select: none;
 	-webkit-user-drag: none;
 	cursor: pointer;
-	text-overflow: ellipsis;
-	overflow: hidden;
-	white-space: nowrap;
-	display: inline-flex;
-	align-items: center;
-	position: relative;
 	color: black;
 	padding: 10px;
 	font-size: 0.9rem;
 	line-height: 1rem;
-	max-height: 1.5rem;
 	border-radius: 15px;
 	background-color: #0093CC;
 	transition: all 0.2s linear;
