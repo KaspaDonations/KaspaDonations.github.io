@@ -30,26 +30,11 @@ body {
 
 main {
 	min-height: 100vh;
-	
 	display: flex;
 	flex-direction: column;
 	text-align: center;
 	align-items: center;
-	
 	margin-top: 110px;
-}
-
-button, input[type="button"], select {
-	-webkit-appearance: none;
-	-moz-appearance: none;
-	font-size: 1rem;
-	font-weight: 450;
-	font-family: inherit;
-	text-decoration: none;
-	user-select: none;
-	cursor: pointer;
-	text-overflow: ellipsis;
-	overflow: hidden;
 }
 
 div br {
@@ -63,13 +48,6 @@ input, textarea, button, select {
 
 input, textarea, button, select, a {
 	outline: none;
-}
-
-
-
-input {
-	font-weight: normal;
-	font-size: 1rem;
 }
 
 h1, h2, h3, h4, h5, h6, p, time {
@@ -126,7 +104,6 @@ footer {
 	color: black;
 	padding: 0;
 	margin: 0;
-	
 	font-size: 0.7rem; 
 	display: block; 
 	padding-top: 8px;
