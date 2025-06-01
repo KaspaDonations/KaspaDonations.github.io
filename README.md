@@ -4,4 +4,4 @@
 4) Set your repository name to "{yourUsername}.github.io"
 5) Select Main branch in /settings/pages
 
-https://kaspahub.github.io/donations
+Page will look like this: https://kaspahub.github.io/donations
