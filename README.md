@@ -5,3 +5,4 @@
 4) Select Main branch in /settings/pages
 
 Page will look like this: https://kaspahub.github.io/donations
+Brought to you by: https://kaspahub.org
