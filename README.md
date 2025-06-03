@@ -1,5 +1,5 @@
 # Kaspa Donations Made Easy
-A simple HTML and JavaScript-based web page for Kaspa donations. It automatically generates QR codes for seamless KAS payments, requiring no coding skills—just replace the wallet address to start accepting tips. It provides a simple, secure way to receive KAS contributions to your own wallet.
+Simple HTML and JavaScript-based web page for Kaspa donations. It automatically generates QR codes for seamless KAS payments, requiring no coding skills - just replace the wallet address to start accepting tips. It provides a simple, secure way to receive KAS contributions to your own wallet.
 
 
 1) Fork us
