@@ -1,4 +1,7 @@
 # Kaspa Donations Made Easy
+A simple HTML and JavaScript-based web page that enables anyone to create a personalized donation page for the Kaspa. It automatically generates QR codes for seamless KAS payments, requiring no coding skills—just replace the wallet address to start accepting tips. It provides a simple, secure way to receive KAS contributions.
+
+
 1) Fork us
 2) Set your repository name to "{yourUsername}.github.io" or get custom domain.
 3) Add your wallets and update links in index.html
