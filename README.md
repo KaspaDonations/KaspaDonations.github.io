@@ -7,6 +7,6 @@ Simple HTML and JavaScript-based web page for Kaspa donations. It automatically 
 3) Add your wallet address and update links in index.html
 4) Select Main branch in /settings/pages
 
-Page will look like this: https://kaspahub.github.io/donations
+Page will look like this: https://kaspahub.org/donation-page/
 
 Brought to you by: https://kaspahub.org
